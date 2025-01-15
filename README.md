@@ -1,13 +1,13 @@
 # Paint For Kids
 
-An educational application created for children to help them learn different shapes and colors, as well as play some games using them.
+A fun and educational app designed to help children learn about various shapes and colors while also enjoying games with them.
 
 ## Features
-- Drawing different shapes (hexagons, triangles, circles, rectangles) with different border/fill colors.
-- Selecting figures for further actions and manipulations.
-- Copying, cutting, pasting, and deleting figures.
-- Saving the current figures with their positions and colors for loading later.
-- Playing two games with the shapes.
+- Create different shapes (hexagons, triangles, circles, rectangles) with customizable border and fill colors.
+- Select shapes to perform further actions and modifications.
+- Copy, cut, paste, and delete shapes as needed.
+- Save the current shapes, including their positions and colors, for later use.
+- Engage in two interactive games involving the shapes.
 
 ## Main Technologies Used
 - C++
